@@ -66,7 +66,7 @@ $ pm2 start dist/main.js
 - Go to the Security tab
 - Click the security group
 - Click "Edit inbound rules"
-- Fill as below and the click save:
+- Fill as below and then click save:
   - Type : Custom TCP
   - Port range : 3000
   - Source : Anywhere-IPv4
